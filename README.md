@@ -42,7 +42,7 @@ The game of 2048 is a classic addition game where the goal is to add all the til
 
 ### Built With
 
-* [![Java][Java]]
+* ![Java][Java]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
