@@ -68,7 +68,4 @@ Run the project and play in the console.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: [https://linkedin.com/in/linkedin_username](https://www.linkedin.com/in/kylejstrong/)
-[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: https://reactjs.org/](https://www.python.org/
-[Bash]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
-[Python-img]: https://github.com/kylejstrong26/python-file-sorter/assets/131374743/20d8392d-266f-4ae2-9a0e-4ec3747b33c1
+[Java]: [https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
